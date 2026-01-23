@@ -9,7 +9,7 @@ Make sure you refer to the [Kickoff Document](#) for additional details and guid
 ## 1: Basic Information (To be completed before you start your Sprint)
 
 ### Project Information:
-- **Topic Chosen**: _Your chosen topic name_
+- **Topic Chosen**: #5 Martial Arts Gym Scheduling System
 - **Sprint Number**: _Sprint number_
 - **Scrum Master**: Zackery Strange
 - **Git Master**: Valeria Garcia

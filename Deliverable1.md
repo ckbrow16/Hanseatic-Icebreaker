@@ -11,8 +11,8 @@ Make sure you refer to the [Kickoff Document](#) for additional details and guid
 ### Project Information:
 - **Topic Chosen**: _Your chosen topic name_
 - **Sprint Number**: _Sprint number_
-- **Scrum Master**: _Name of Scrum Master_
-- **Git Master**: _Name of Git Master_
+- **Scrum Master**: Zackery Strange
+- **Git Master**: Valeria Garcia
 
 ### Sprint Planning (For Sprint 1-3):
 Fill out your Sprint Planning here, based on the kickoff document and your team's discussions.

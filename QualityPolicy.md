@@ -9,16 +9,40 @@
 > This workflow follows the required conventions defined in Project Module Concepts and Housekeeping.
 > Any deviations must be explicitly justified below.
 
-Describe your team's Git workflow in detail. Address the following:
-- What is your branch naming convention? (e.g., feature/US#-description, bugfix/issue#)
-- When do you create branches? (e.g., for each User Story, for each task)
-- What is your merge strategy? (e.g., merge commits, squash and merge, rebase)
-- Who approves Pull Requests and how many approvals are required?
-- When can code be merged to main? (e.g., after sprint ends, after review)
-- How do you handle merge conflicts?
+### 1.1 Branch Naming 
+- The `main` branch will contain the final, working version of the project at the end of each sprint.
+- The `dev` branch will be used for active development.
+- A new branch will be created for each User Story using the format `US#-short-description`.
+- Optional task branches may be created from a User Story branch if needed.
+- Branches will not be deleted until after the sprint has been graded.
+
+### 1.2 Branch Creation 
+- Team members will create a new branch for each User Story or major task.
+- Before starting work, the latest changes from `dev` will be pulled to avoid conflicts.
+
+### 1.3 Commit Practices
+- Commits will be made frequently with clear and meaningful messages.
+- Commit messages will reference the related User Story or task.
+- If work is incomplete, commits will be marked as WIP (work in progress).
+
+### 1.4 Pull Requests and Reviews
+- A Pull Request will be created when a User Story is completed or when significant progress is made.
+- Each Pull Request must be reviewed by at least one other team member.
+- Team members are responsible for reviewing each other’s Pull Requests.
+
+### 1.5 Merging 
+- User Story branches will be merged into `dev` after review and basic testing.
+- Only the Git Master will merge `dev` into `main` at the end of the sprint.
+- Fast-forward merges will be used when possible.
+
+### 1.6 Merge Conflicts
+- Merge conflicts will be resolved locally by the team member merging the branch.
+- If a conflict is unclear, the team will work together to resolve it.
+- The project must compile and run after conflicts are resolved.
 
 > _Your Workflow Description_
 
+This workflow applies to Sprint 1 and will be updated in future sprints as new quality practices are introduced.
 ---
 
 ## **Unit Tests Blackbox** (start Sprint 2)

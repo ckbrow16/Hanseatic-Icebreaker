@@ -10,32 +10,35 @@ Make sure you refer to the [Kickoff Document](#) for additional details and guid
 
 ### Project Information:
 - **Topic Chosen**: #5 Martial Arts Gym Scheduling System
-- **Sprint Number**: _Sprint number_
+- **Sprint Number**: 1
 - **Scrum Master**: Zackery Strange
 - **Git Master**: Valeria Garcia
 
 ### Sprint Planning (For Sprint 1-3):
-Fill out your Sprint Planning here, based on the kickoff document and your team's discussions.
+
 
 #### Sprint Goal:
-- **Sprint Goal**: _Clearly state the goal of the sprint._
+- **Sprint Goal**: Get an understand of the core functionality of the Memoranda application, establish
+consistent terminology, Define martial arts appropriate naming conventions, acceptance criteria and development practices for future sprints.
 
 #### Product Backlog & Sprint Backlog:
-- **User Stories in Product Backlog**: _Number of User Stories added to the Product Backlog_
-- **User Stories in Sprint Backlog**: _Number of User Stories selected for this Sprint_
+- **User Stories in Product Backlog**: Team added 3 total user stories to Product Backlog
+- **User Stories in Sprint Backlog**: Team add 1 user story for Sprint 1
 
 #### Sprint Planning Questions:
 - **Why did you select these User Stories for this Sprint?**
-    > _Your Answer_
+    > The team selected this user story to focus on improving terminology conistency and as well as get a better understanding of the existing system rather than introducing complex functionality. Since Sprint 1 will be the backbone for future sprints this will ensure us a strong foundation for future developments and improvements.
 
 - **Why do you think you can complete them in this Sprint?**
-    > _Your Answer_
+    >Given the existing user stories and the 1 added they involve reviewing of the UI, setting standards for the terminology which involve lower risk updates to the legacy code given which creates a more manageable foundation while the team establishes git/agile workflow which makes the completion within the sprint time frame realistic.
 
 - **How do these User Stories align with the Sprint Goal?**
-    > _Your Answer_
+    >The user story supports the sprint goal by helping the team understand core Memoranda functionality while establishing 
+    consistent terminology and clear acceptance criteria which aligns with Sprint 1 goal to deliver foundational improvements that will make a great base to prepare the team for more complex assignments in later sprints.
 
 - **Do you have a clear idea of the tasks needed to complete these User Stories? (If not, please notify via Slack.)**
-    > _Your Answer_
+    >The team has identified clear tasks for the selected user stories which are documented in Taiga under the selected
+     user story.
 
 ---
 
